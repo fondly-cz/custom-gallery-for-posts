@@ -1,0 +1,25 @@
+/* Custom Gallery Styles */
+#cgp-gallery-container {
+    margin-top: 20px;
+}
+
+#cgp-gallery-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cgp-gallery-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.cgp-gallery-item img {
+    max-width: 100px;
+    margin-right: 10px;
+}
+
+.cgp-remove-image {
+    margin-left: 10px;
+}
